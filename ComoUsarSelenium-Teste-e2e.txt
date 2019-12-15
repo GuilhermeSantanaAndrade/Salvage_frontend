@@ -1,0 +1,14 @@
+
+1 git clone do projeto
+
+
+*supondo que o nodeJS esteja instalado:
+2 na pasta raiz do projeto, instalar todas as dependencias com: npm install
+3 copiar o chromedriver.exe (que deixei na raiz desse projeto) para alguma pasta em seu c:/
+4 colocar o chromedriver no PATH, nas variáveis de ambiente
+5 reiniciar o prompt de comando
+6 na pasta raiz do projeto, rodar o exemplo de teste com: node test_e2e/loginPage.js
+
+Se não estiver instalado, instalar.
+
+documentação: https://www.seleniumhq.org/docs/
